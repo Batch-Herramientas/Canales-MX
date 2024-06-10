@@ -43,7 +43,7 @@ if "%opi%"=="8" goto 8
 if "%opi%"=="9" goto 9
 if "%opi%"=="10" goto 10
 if "%opi%"=="11" goto 11
-if "%opi%"=="12" start "" "https://github.com/Batch-Herramientas/Canales-MX/Files/" & goto I
+if "%opi%"=="12" start "" "https://github.com/Batch-Herramientas/Canales-MX/tree/main/Files" & goto I
 if "%opi%"=="13" goto exit
 echo Opcion No encontrada
 pause 
@@ -153,7 +153,7 @@ echo off
 cls
 echo.
 echo ........Creditos........
-echo -- programador y Diseñador:
+echo -- programador y DiseÃ±ador:
 echo   Batch-Herramientas
 echo link: https://github.com/Batch-Herramientas
 echo --  reproductor de video:
