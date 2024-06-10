@@ -1,3 +1,4 @@
-#Esta es la version 1.0 de Canales Mx 
-»Tiene reproductor incluido «
-»Tiene Los Canales de Mexico«
+# Esta es la version 1.0 de Canales Mx 
+Â»Tiene reproductor incluido Â«
+
+Â»Tiene Los Canales de MexicoÂ«
